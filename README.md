@@ -84,6 +84,23 @@ python brain_segmentation_analysis.py
 ## Visualization Outputs
 Segmentation Results:
 Displays input MRI slices, ground truth, and predicted segmentation side by side.
+### Example Visuals:
+
+- **Segmented Region Volumes:**
+  ![Segmented Region Volumes](https://github.com/yourusername/yourrepository/blob/main/Segmented%20Region%20Volumes.jpeg)
+
+- **Tumor Heat Map:**
+  ![Tumor Heat Map](https://github.com/yourusername/yourrepository/blob/main/Tumour%20Heat%20Map.jpeg)
+
+- **Ground Truth:**
+  ![Ground Truth](https://github.com/yourusername/yourrepository/blob/main/ground%20truth.jpeg)
+
+- **Input MRI:**
+  ![Input MRI Image](https://github.com/yourusername/yourrepository/blob/main/input%20mri.jpeg)
+
+- **Predicted Segmentation:**
+  ![Predicted Segmentation](https://github.com/yourusername/yourrepository/blob/main/predicted%20Segmentation.jpeg)
+
 
 Heatmap:
 Visualizes the enhancing tumor regions.
