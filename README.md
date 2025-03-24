@@ -106,12 +106,11 @@ Avireddy Vinod – Developer and Researcher
 
 Feel free to contribute by submitting issues or pull requests!
 
-Contact
-For any questions or feedback, reach out at:
+### Contact  
+For any questions or feedback, reach out at:  
 
-Email: 2100040004ece@gmail.com
-
-LinkedIn: Vinod Avireddy
+- **Email**: [2100040004ece@gmail.com](mailto:2100040004ece@gmail.com)  
+- **LinkedIn**: [Vinod Avireddy](https://www.linkedin.com/in/vinod-avireddy-552912226/)  
 
 
 
